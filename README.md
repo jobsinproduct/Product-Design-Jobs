@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Design Jobs — 2026
 
-<sub><small>Last updated: Oct 15, 2026 at 16:56 UTC</small></sub>
+<sub><small>Last updated: Oct 20, 2026 at 17:00 UTC</small></sub>
 
 Daily product design jobs curated by Jobs in Product.
 Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs).
@@ -27,7 +27,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-15 archive](archive/2026-10-15.md)
+- [2026-10-20 archive](archive/2026-10-20.md)
 
 ## About This Repository
 
