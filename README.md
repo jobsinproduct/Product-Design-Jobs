@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Design Jobs — 2026
 
-<sub><small>Last updated: Oct 20, 2026 at 17:00 UTC</small></sub>
+<sub><small>Last updated: Oct 22, 2026 at 17:06 UTC</small></sub>
 
 Daily product design jobs curated by Jobs in Product.
 Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs).
@@ -18,16 +18,15 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 | **[Figma](https://jobsinproduct.com/jobs/figma-product-designer-roundtripping-london-united-kingdom-3ed72906?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Product Designer, Roundtripping (London, United Kingdom)](https://jobsinproduct.com/jobs/figma-product-designer-roundtripping-london-united-kingdom-3ed72906?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | London, England | On Site | Full Time | Sep 16 |
 | **[Figma](https://jobsinproduct.com/jobs/figma-product-design-intern-2027-09811000?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Product Design Intern (2027)](https://jobsinproduct.com/jobs/figma-product-design-intern-2027-09811000?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | San Francisco, CA • New York, NY | On Site | intern | Sep 14 |
 | **[Cloudflare](https://jobsinproduct.com/jobs/cloudflare-senior-product-manager-enterprise-1eb54730?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Senior Product Manager, Enterprise](https://jobsinproduct.com/jobs/cloudflare-senior-product-manager-enterprise-1eb54730?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | Hybrid | On Site | Full Time | Sep 1 |
-| **[Robinhood](https://jobsinproduct.com/jobs/robinhood-senior-product-designer-trading-0a84f9db?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Senior Product Designer, Trading](https://jobsinproduct.com/jobs/robinhood-senior-product-designer-trading-0a84f9db?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | Menlo Park, CA; New York, NY | On Site | Full Time | Aug 27 |
 
 ---
 
-**Current Stats:** 7 jobs | 0% remote | 3 companies | 0 salary ranges listed
+**Current Stats:** 6 jobs | 0% remote | 3 companies | 1 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-20 archive](archive/2026-10-20.md)
+- [2026-10-22 archive](archive/2026-10-22.md)
 
 ## About This Repository
 
