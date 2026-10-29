@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Design Jobs — 2026
 
-<sub><small>Last updated: Oct 22, 2026 at 17:06 UTC</small></sub>
+<sub><small>Last updated: Oct 29, 2026 at 18:43 UTC</small></sub>
 
 Daily product design jobs curated by Jobs in Product.
 Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs).
@@ -12,21 +12,20 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Figma](https://jobsinproduct.com/jobs/figma-product-designer-core-experience-5486ea4a?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Product Designer, Core Experience](https://jobsinproduct.com/jobs/figma-product-designer-core-experience-5486ea4a?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | San Francisco, CA • New York, NY • United States | On Site | Full Time | Oct 26 |
 | **[Robinhood](https://jobsinproduct.com/jobs/robinhood-senior-product-designer-sports-0575fc94?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Senior Product Designer, Sports](https://jobsinproduct.com/jobs/robinhood-senior-product-designer-sports-0575fc94?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | Menlo Park, CA; New York, NY | On Site | Full Time | Oct 5 |
 | **[Robinhood](https://jobsinproduct.com/jobs/robinhood-product-designer-international-574065ab?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Product Designer, International](https://jobsinproduct.com/jobs/robinhood-product-designer-international-574065ab?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | Menlo Park, CA; New York, NY | On Site | intern | Sep 29 |
 | **[Figma](https://jobsinproduct.com/jobs/figma-early-career-product-designer-2027-3c80dbf4?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Early Career, Product Designer (2027)](https://jobsinproduct.com/jobs/figma-early-career-product-designer-2027-3c80dbf4?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | San Francisco, CA • New York, NY | On Site | Full Time | Sep 23 |
 | **[Figma](https://jobsinproduct.com/jobs/figma-product-designer-roundtripping-london-united-kingdom-3ed72906?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Product Designer, Roundtripping (London, United Kingdom)](https://jobsinproduct.com/jobs/figma-product-designer-roundtripping-london-united-kingdom-3ed72906?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | London, England | On Site | Full Time | Sep 16 |
-| **[Figma](https://jobsinproduct.com/jobs/figma-product-design-intern-2027-09811000?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Product Design Intern (2027)](https://jobsinproduct.com/jobs/figma-product-design-intern-2027-09811000?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | San Francisco, CA • New York, NY | On Site | intern | Sep 14 |
-| **[Cloudflare](https://jobsinproduct.com/jobs/cloudflare-senior-product-manager-enterprise-1eb54730?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Senior Product Manager, Enterprise](https://jobsinproduct.com/jobs/cloudflare-senior-product-manager-enterprise-1eb54730?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | Hybrid | On Site | Full Time | Sep 1 |
 
 ---
 
-**Current Stats:** 6 jobs | 0% remote | 3 companies | 1 salary ranges listed
+**Current Stats:** 5 jobs | 0% remote | 2 companies | 1 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-22 archive](archive/2026-10-22.md)
+- [2026-10-29 archive](archive/2026-10-29.md)
 
 ## About This Repository
 
