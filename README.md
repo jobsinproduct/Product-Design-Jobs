@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Design Jobs — 2026
 
-<sub><small>Last updated: Nov 9, 2026 at 22:17 UTC</small></sub>
+<sub><small>Last updated: Nov 10, 2026 at 19:41 UTC</small></sub>
 
 Daily product design jobs curated by Jobs in Product.
 Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs).
@@ -12,6 +12,7 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Duolingo](https://jobsinproduct.com/jobs/duolingo-product-designer-thrive-intern-a8bb35d0?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Product Designer, Thrive Intern](https://jobsinproduct.com/jobs/duolingo-product-designer-thrive-intern-a8bb35d0?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | Pittsburgh, PA | On Site | intern | Nov 9 |
 | **[Match Group](https://jobsinproduct.com/jobs/match-group-product-design-internship-d96aa7c2?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Product Design Internship](https://jobsinproduct.com/jobs/match-group-product-design-internship-d96aa7c2?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | Ghent, Belgium | On Site | intern | Oct 28 |
 | **[Figma](https://jobsinproduct.com/jobs/figma-product-designer-core-experience-5486ea4a?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Product Designer, Core Experience](https://jobsinproduct.com/jobs/figma-product-designer-core-experience-5486ea4a?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | San Francisco, CA • New York, NY • United States | On Site | Full Time | Oct 26 |
 | **[Spotify](https://jobsinproduct.com/jobs/spotify-staff-product-designer-platform-design-e5195f4b?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Staff Product Designer - Platform Design](https://jobsinproduct.com/jobs/spotify-staff-product-designer-platform-design-e5195f4b?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | London | On Site | Full Time | Oct 21 |
@@ -20,12 +21,12 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 ---
 
-**Current Stats:** 5 jobs | 0% remote | 4 companies | 1 salary ranges listed
+**Current Stats:** 6 jobs | 0% remote | 5 companies | 1 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-09 archive](archive/2026-11-09.md)
+- [2026-11-10 archive](archive/2026-11-10.md)
 
 ## About This Repository
 
