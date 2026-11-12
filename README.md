@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Design Jobs — 2026
 
-<sub><small>Last updated: Nov 11, 2026 at 19:33 UTC</small></sub>
+<sub><small>Last updated: Nov 12, 2026 at 19:53 UTC</small></sub>
 
 Daily product design jobs curated by Jobs in Product.
 Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs).
@@ -15,6 +15,7 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 | **[Notion](https://jobsinproduct.com/jobs/notion-product-design-intern-summer-2027-620ed660?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Product Design Intern (Summer 2027)](https://jobsinproduct.com/jobs/notion-product-design-intern-summer-2027-620ed660?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | New York, New York | On Site | intern | Nov 10 |
 | **[Figma](https://jobsinproduct.com/jobs/figma-product-designer-figma-weave-tel-aviv-israel-35112435?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Product Designer - Figma Weave (Tel Aviv, Israel)](https://jobsinproduct.com/jobs/figma-product-designer-figma-weave-tel-aviv-israel-35112435?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | Tel Aviv, Israel | On Site | Full Time | Nov 10 |
 | **[Duolingo](https://jobsinproduct.com/jobs/duolingo-product-designer-thrive-intern-a8bb35d0?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Product Designer, Thrive Intern](https://jobsinproduct.com/jobs/duolingo-product-designer-thrive-intern-a8bb35d0?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | Pittsburgh, PA | On Site | intern | Nov 9 |
+| **[Spotify](https://jobsinproduct.com/jobs/spotify-product-designer-2b07b584?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Product Designer](https://jobsinproduct.com/jobs/spotify-product-designer-2b07b584?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | Stockholm | On Site | Full Time | Nov 4 |
 | **[Match Group](https://jobsinproduct.com/jobs/match-group-product-design-internship-d96aa7c2?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Product Design Internship](https://jobsinproduct.com/jobs/match-group-product-design-internship-d96aa7c2?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | Ghent, Belgium | On Site | intern | Oct 28 |
 | **[Figma](https://jobsinproduct.com/jobs/figma-product-designer-core-experience-5486ea4a?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Product Designer, Core Experience](https://jobsinproduct.com/jobs/figma-product-designer-core-experience-5486ea4a?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | San Francisco, CA • New York, NY • United States | On Site | Full Time | Oct 26 |
 | **[Spotify](https://jobsinproduct.com/jobs/spotify-staff-product-designer-platform-design-e5195f4b?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Staff Product Designer - Platform Design](https://jobsinproduct.com/jobs/spotify-staff-product-designer-platform-design-e5195f4b?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | London | On Site | Full Time | Oct 21 |
@@ -23,12 +24,12 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 ---
 
-**Current Stats:** 8 jobs | 0% remote | 6 companies | 1 salary ranges listed
+**Current Stats:** 9 jobs | 0% remote | 6 companies | 1 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-11 archive](archive/2026-11-11.md)
+- [2026-11-12 archive](archive/2026-11-12.md)
 
 ## About This Repository
 
