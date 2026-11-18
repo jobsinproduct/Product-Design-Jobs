@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product Design Jobs — 2026
 
-<sub><small>Last updated: Nov 16, 2026 at 21:58 UTC</small></sub>
+<sub><small>Last updated: Nov 18, 2026 at 20:27 UTC</small></sub>
 
 Daily product design jobs curated by Jobs in Product.
 Updated daily by [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs).
@@ -12,6 +12,7 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Figma](https://jobsinproduct.com/jobs/figma-product-designer-growth-fec967e6?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Product Designer, Growth](https://jobsinproduct.com/jobs/figma-product-designer-growth-fec967e6?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | San Francisco, CA • New York, NY • United States | On Site | Full Time | Nov 16 |
 | **[Notion](https://jobsinproduct.com/jobs/notion-product-design-intern-summer-2027-620ed660?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Product Design Intern (Summer 2027)](https://jobsinproduct.com/jobs/notion-product-design-intern-summer-2027-620ed660?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | New York, New York | On Site | intern | Nov 10 |
 | **[Figma](https://jobsinproduct.com/jobs/figma-product-designer-figma-weave-tel-aviv-israel-35112435?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Product Designer - Figma Weave (Tel Aviv, Israel)](https://jobsinproduct.com/jobs/figma-product-designer-figma-weave-tel-aviv-israel-35112435?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | Tel Aviv, Israel | On Site | Full Time | Nov 10 |
 | **[Duolingo](https://jobsinproduct.com/jobs/duolingo-product-designer-thrive-intern-a8bb35d0?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | **[Product Designer, Thrive Intern](https://jobsinproduct.com/jobs/duolingo-product-designer-thrive-intern-a8bb35d0?utm_source=github&utm_medium=repo&utm_campaign=github-product-design-jobs)** | Pittsburgh, PA | On Site | intern | Nov 9 |
@@ -24,12 +25,12 @@ Visit [Jobs in Product](https://jobsinproduct.com?utm_source=github&utm_medium=r
 
 ---
 
-**Current Stats:** 9 jobs | 0% remote | 6 companies | 1 salary ranges listed
+**Current Stats:** 10 jobs | 0% remote | 6 companies | 1 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-16 archive](archive/2026-11-16.md)
+- [2026-11-18 archive](archive/2026-11-18.md)
 
 ## About This Repository
 
